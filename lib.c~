@@ -1,25 +1,3 @@
-/* lab5.c - lib.c 
-* 
-* This is the lib.c page
-*
-* Name: Scott Jean  
-* Email: sajean@purdue.edu
-* Course: CNIT 315
-* Lab assignment: 5
-*
-* Collaborators:
-*   - None
-*
-*
-*
-*         HERE is a random ASCII Rose   -----<--<---@
-*
-*
-*
-*/
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
